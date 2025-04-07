@@ -75,8 +75,6 @@ SASNet [code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet) | [p
 CSRNet [code](https://github.com/leeyeehoo/CSRNet-pytorch) | [weights](https://huggingface.co/rootstrap-org/crowd-counting)
 
 TinyCount [code]() | [weights](https://drive.google.com/drive/folders/1dSrFRwqggoSdfMJMI7tLbdluFIDHOnNF) | [paper](https://link.springer.com/article/10.1007/s11554-024-01531-8)
-Proximal Mapping Loss [code](https://github.com/Elin24/pml) | [paper](https://openreview.net/forum?id=7p8CcxP1Xc)  
-This new methodology is scheduled to be presented at ICLR2025 which is Apr 24 2025.
 
 [Crowd Counting: A Survey](https://www.rootstrap.com/blog/crowd-counting-a-survey)  
 A more accessible overview of crowd counting techniques. 
