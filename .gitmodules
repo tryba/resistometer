@@ -1,0 +1,3 @@
+[submodule "models/crowddiff"]
+	path = models/crowddiff
+	url = https://github.com/dylran/crowddiff.git
