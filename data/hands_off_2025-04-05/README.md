@@ -10,6 +10,8 @@ curl "https://mobilize-feed-cache.vercel.app/data.json?timeslot_start=gte_now&pe
 
 This data contains listings for 1341 events with a small amount of duplication. Deduplicating events with identical venu names and addresses provides a total count of 1323 unique protest locations.
 
+![image](map.png)
+
 # Sources
 https://www.reddit.com/r/Seattle/comments/1jt1e5s/an_aerial_picture_from_yesterdays_rally/
 https://www.reddit.com/r/Seattle/comments/1jsnewo/hands_off_seattle/

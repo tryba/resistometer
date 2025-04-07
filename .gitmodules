@@ -1,3 +1,12 @@
-[submodule "models/crowddiff"]
-	path = models/crowddiff
+[submodule "src/crowddiff"]
+	path = src/crowddiff
 	url = https://github.com/dylran/crowddiff.git
+[submodule "src/SASNet"]
+	path = src/SASNet
+	url = https://github.com/TencentYoutuResearch/CrowdCounting-SASNet
+[submodule "src/GAUNet"]
+	path = src/GAUNet
+	url = https://github.com/zhiqic/Rethinking-Counting.git
+[submodule "src/FFS"]
+	path = src/FFS
+	url = https://github.com/erdongsanshi/Fuss-Free-structure.git

@@ -65,8 +65,18 @@ A survey of crowd counting methodologies from June 2023. This source helpfully i
 [Awesome Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)  
 A leaderboard showing a large number of models across various test data sets. As of 2025-4-7 `CrowdDiff` has the best performance across many test categories, including the hyperscale test sets we're interested in.
 
-[CrowdDiff](https://github.com/dylran/crowddiff)  
-Code and instructions for executing the CrowdDiff model
+CrowdDiff [code](https://github.com/dylran/crowddiff) | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf)  
+Code and instructions for executing the CrowdDiff model. Unfortunately, this code differs from the methodology described in the related paper, and the link to pre-trained weights is broken as of writing.
+
+GauNet [code](https://github.com/zhiqic/Rethinking-Counting) | [paper](https://arxiv.org/pdf/2206.05253) | [docker](https://hub.docker.com/r/skokec/dau-convnet)
+
+SASNet [code](https://github.com/TencentYoutuResearch/CrowdCounting-SASNet) | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16360)
+
+CSRNet [code](https://github.com/leeyeehoo/CSRNet-pytorch) | [weights](https://huggingface.co/rootstrap-org/crowd-counting)
+
+TinyCount [code]() | [weights](https://drive.google.com/drive/folders/1dSrFRwqggoSdfMJMI7tLbdluFIDHOnNF) | [paper](https://link.springer.com/article/10.1007/s11554-024-01531-8)
+Proximal Mapping Loss [code](https://github.com/Elin24/pml) | [paper](https://openreview.net/forum?id=7p8CcxP1Xc)  
+This new methodology is scheduled to be presented at ICLR2025 which is Apr 24 2025.
 
 [Crowd Counting: A Survey](https://www.rootstrap.com/blog/crowd-counting-a-survey)  
 A more accessible overview of crowd counting techniques. 
